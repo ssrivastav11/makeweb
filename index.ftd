@@ -16,21 +16,23 @@ align-content: center
 -- player: AJIT GARG
 dp: $assets.files.assets.logo-centre-circle.png
 
-I am DevRel at FifthTry.
+Alien ON EARth.
 
 -- ftd.column:
 spacing.fixed.px: 10
 margin-top.px: 60
 width: fill-container
 
--- button: LinkedIn
-link: https://www.linkedin.com/in/ajit-garg-319167190/
-
 -- button: Instagram
+link: link: https://www.linkedin.com/in/ajit-garg-319167190/
 
--- button: Facebook
+-- button: Youtube
+link: https://youtube.com/@alonear_ 
 
--- button: Twitter
+-- button: Connect with Admin1(Sanskriti Srivastava)
+link: https://www.instagram.com/sanskriti_srivastava._/
+
+
 
 
 
