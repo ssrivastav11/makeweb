@@ -74,7 +74,7 @@ color: white
 
 -- ftd.text: $player.body
 role: $inherited.types.copy-regular
-color: white
+color: blue
 
 -- end: ftd.column
 
@@ -87,7 +87,7 @@ color: white
 
 
 -- component button:
-caption title:
+caption title: 
 optional string link:
 ftd.color text-color: $inherited.colors.text-strong
 ftd.color border-color: white
