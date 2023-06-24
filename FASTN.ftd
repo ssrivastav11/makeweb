@@ -1,18 +1,16 @@
 -- import: fastn
 
--- fastn.package: ssrivastav11.github.io/makeweb
-favicon: /-/ssrivastav11.github.io/makeweb/favicon.ico
+-- fastn.package: gargajit.github.io/ui-template
+favicon: /-/gargajit.github.io/ui-template/favicon.ico
 
 -- fastn.dependency: fastn-community.github.io/doc-site as doc-site
 -- fastn.dependency: fastn-community.github.io/footer
 -- fastn.dependency: fastn-community.github.io/roboto-typography
+-- fastn.dependency: fastn-community.github.io/opensans-typography
+-- fastn.dependency: fastn-community.github.io/dark-mode-switcher as dms
 
--- fastn.auto-import: ssrivastav11.github.io/makeweb/FASTN/ds
--- fastn.auto-import: ssrivastav11.github.io/makeweb/assets
+-- fastn.auto-import: gargajit.github.io/ui-template/FASTN/ds
+-- fastn.auto-import: gargajit.github.io/ui-template/assets
 -- fastn.auto-import: doc-site
+-- fastn.auto-import: dms
 
--- fastn.sitemap:
-
-# Home: index.html
-
-- Right Sidebar Sample: /sidebar/
